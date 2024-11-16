@@ -14,9 +14,6 @@
 </div>
 
 <h3>📬 Contato:</h3>
-<a href="matheusxavier.20241@poli.ufrj.br">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Logo_2023.png" width="50" height="50" />
-</a>
 <a href="https://www.linkedin.com/in/matheusxaviermartins/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" />
 </a>
